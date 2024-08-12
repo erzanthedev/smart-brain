@@ -1,5 +1,5 @@
 ---
-# 🧠 Smart Brain React App
+# 🧠 Smart Brain React App - FRONTEND
 ---
 
 ## 📋 Overview
