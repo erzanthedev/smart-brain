@@ -7,7 +7,7 @@
 Welcome to the **Smart Brain React App** project! 🚀
 
 This project is a web application that uses an AI-powered face detection API from Clarifai to identify faces in images.
-**At the moment it only detects single face images**
+**At the moment it only detects single face images**.
 AI, or **Artificial Intelligence**, refers to the simulation of human intelligence processes by machines, especially computer systems. **APIs** (Application Programming Interfaces) allow different software applications to communicate with each other, enabling the integration of external services like Clarifai’s face detection into your own app.
 
 In this project, I built the **frontend**, **backend**, and **database** to create a full-stack application. This journey allowed me to deepen my understanding of web development by integrating various technologies.
